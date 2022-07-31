@@ -1,4 +1,4 @@
-# React Native video call app with webRTC
+# React Native video call app using webRTC
 
 This is a demo video + audio calling app build in react native which supports webRTC.WebRTC is a free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.
 
